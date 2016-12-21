@@ -1,5 +1,7 @@
 # Team MEGA
 
+We created a quadrotor based testbed for existing and new traffic control algorithms. This system can accelerate the development of modular self-contained autonomous routing controllers for dense low-altitude fleets of quadrotors. This platform will be used by students and researchers as a low-cost, but realistic tool for testing outdoor navigation algorithms. 
+
 ## Devpost
 https://devpost.com/software/autonomous-airspace
 
