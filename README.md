@@ -1,10 +1,14 @@
 # Team MEGA
-##Additional Repos and Resources
+## Report
+https://docs.google.com/document/d/1-Q7bjFN2Fdfx_XNYJCWsmyhf7lvxjkIU7u65Q--G2Pw/edit?usp=sharing
+
+## Devpost
 https://devpost.com/software/autonomous-airspace
 
+##Additional Project Components
 GUI https://github.com/katetolstaya/teammega_gui  
-C++ controller https://github.com/brent8149/teamMEGA 
 Matlab Path Planner https://github.com/brent8149/Matlab_planner 
+C++ controller https://github.com/brent8149/teamMEGA 
 
 ##Installation Requirements
 See each individual link for installation instructions.  
