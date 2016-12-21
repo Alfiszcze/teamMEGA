@@ -1,10 +1,20 @@
 # Team MEGA
-Additional Repos:
+##Additional Repos:
 GUI https://github.com/katetolstaya/teammega_gui
 C++ controller https://github.com/brent8149/teamMEGA
 Matlab Path Planner https://github.com/brent8149/Matlab_planner
 
-Executing the Software
+##Installation Requirements
+See each individual link for installation instructions.
+A simulator of choice (jMavSim or Gazebo) (http://dev.px4.io/simulation-sitl.html)
+MAVROS (http://dev.px4.io/ros-mavros-installation.html)
+ROS (Tested with Kinetic) (http://wiki.ros.org/kinetic/Installation/Ubuntu)
+MATLAB Planner (https://github.com/brent8149/Matlab_planner)
+teamMEGA ROS Node (https://github.com/brent8149/teamMEGA)
+GUI Application (https://github.com/katetolstaya/teammega_gui)
+ROSBridge (https://github.com/RobotWebTools/rosbridge_suite)
+
+##Executing the Software
 
 If you are using a simulator (jMavSim):
 
