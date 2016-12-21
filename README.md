@@ -1,6 +1,4 @@
 # Team MEGA
-## Report
-https://docs.google.com/document/d/1-Q7bjFN2Fdfx_XNYJCWsmyhf7lvxjkIU7u65Q--G2Pw/edit?usp=sharing
 
 ## Devpost
 https://devpost.com/software/autonomous-airspace
