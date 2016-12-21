@@ -5,7 +5,7 @@ https://devpost.com/software/autonomous-airspace
 
 ##Additional Project Components
 GUI https://github.com/katetolstaya/teammega_gui  
-Matlab Path Planner https://github.com/brent8149/Matlab_planner 
+Matlab Path Planner https://github.com/brent8149/Matlab_planner   
 C++ controller https://github.com/brent8149/teamMEGA 
 
 ##Installation Requirements
